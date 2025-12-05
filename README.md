@@ -1,12 +1,12 @@
 👋 Hi, I'm Hazrat Khan  
-🌟 Laravel Developer | PHP | Laravel| MySQL | Vue.js | APIs
+🌟 Laravel Developer | PHP | Laravel | MySQL | Vue.js | APIs
 
 🚀 Passionate Web Developer with experience in building  
 modern, scalable and multilingual applications.
 
   # Tech Stack
    **Backend:** PHP, Laravel 11, MySQL  
-   **Frontend:** HTML, CSS,Bootstrap JS, React.js  
+   **Frontend:** HTML, CSS, Bootstrap, JS, React.js  
    **APIs:** REST API, Postman  
    **Tools:** Git, GitHub, Composer  
 
