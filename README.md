@@ -1,23 +1,49 @@
-👋 Hi, I'm Hazrat Khan  
-🌟 Laravel Developer | PHP | Laravel | MySQL | React.js | APIs
+# 👋 Hi, I'm Hazrat Khan  
+# 🌟 Laravel Developer | PHP | Laravel | MySQL | APIs | React.js
 
-🚀 Passionate Web Developer with experience in building  
-modern, scalable and multilingual applications.
+I'm a passionate **Laravel Developer** from Pakistan with experience in creating  
+modern, multilingual, and high-performance web applications.
 
-  # Tech Stack
-   **Backend:** PHP, Laravel 11, MySQL  
-   **Frontend:** HTML, CSS, Bootstrap, JS, React.js  
-   **APIs:** REST API, Postman  
-   **Tools:** Git, GitHub, cPanel, Composer  
+# 🚀 Tech Stack
 
-  # 📌 Featured Projects
-   🚗 **Car Booking System (Laravel 11)**  
-  Modern multilingual booking system with seasonal pricing.
+## 🔧 Backend
+   PHP  
+   Laravel 10 / Laravel 11  
+   REST APIs  
+   MySQL  
+   Authentication (Login, JWT/Sanctum)  
 
-   ⭐ **ReviewBoost – NFC Customer Review System**  
-  Smart system for businesses to get reviews using NFC.
+# 🎨 Frontend
+   HTML  
+   CSS  
+   Tailwind CSS
+   JavaScript  
+   Bootstrap  
+   React.js
 
-# 📞 Contact Me  
-   **WhatsApp:** 0344-3368914  
-   **Email:** hk102827@gmail.com 
-   **Fiverr:** https://www.fiverr.com/hazratdev/buying?source=avatar_menu_profile
+# 🛠 Tools
+   Git & GitHub
+   cPanel
+   Composer  
+   Postman  
+   VS Code  
+
+# 📦 Other Skills
+   CRUD Systems    
+   Payment Integration  
+   Multilingual Websites  
+   Admin Panels  
+   API Integration  
+   Error Debugging & Optimization
+
+## 📌 Featured Projects (Updated Soon)
+# 🚗 Car Booking System (Laravel 11)
+Multilingual car booking with seasonal pricing, admin panel & full booking flow.
+
+# ⭐ ReviewBoost – NFC Review System
+Businesses can collect customer reviews via NFC + analytics dashboard.
+
+# 📞 Contact Me
+- **WhatsApp:** 0344-3368914  
+- **Email:** hk102827@gmail.com 
+- **Fiverr:** https://www.fiverr.com/sellers/hazratdev/edit  
